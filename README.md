@@ -5,7 +5,7 @@ Name: `Jonathan Ropp`
 
 ONID ID: `roppjo`
 
-Link to my CS 290 page: `<a href="http://web.engr.oregonstate.edu/~roppjo/index>CS 290 Page</a>`
+Link to my CS 290 page: `http://web.engr.oregonstate.edu/~roppjo/index`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
